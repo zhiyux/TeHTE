@@ -1,1 +1,1 @@
-# Temporal-householder-transformation-embedding-for-temporal-knowledge-graph-completion
+# Temporal householder transformation embedding for temporal knowledge graph completion
